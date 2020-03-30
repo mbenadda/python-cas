@@ -39,9 +39,9 @@ setup(
     keywords=['cas', 'cas2', 'cas3', 'client', 'sso', 'single sign-on', 'authentication', 'auth'],
     license='MIT',
     long_description=readme,
-    name='python-cas',
+    name='python-cas-mb',
     py_modules=['cas'],
-    url='https://github.com/python-cas/python-cas',
-    download_url ='https://github.com/python-cas/python-cas/releases',
-    version='1.5.0',
+    url='https://github.com/mbenadda/python-cas',
+    download_url='https://github.com/mbenadda/python-cas/releases',
+    version='1.5.1',
 )
